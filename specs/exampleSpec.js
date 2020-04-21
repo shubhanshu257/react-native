@@ -5,5 +5,6 @@ export default function(spec) {
       await spec.fillIn('Home.TextInput', 'Shubhanshu');
     });
   });
+}
 
   
